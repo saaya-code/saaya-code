@@ -1,102 +1,54 @@
+<h3 title="Hello"> Hey 👋, I'm Aziz !</h3>
 
-# Hi, I'm saàya
-
-A first year preparatory student.
-
-## About Me
-
-- 🌱 I’m currently learning ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-- 📁 My portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://saaya-code.github.io/portfolio)
-
-
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:boualimohamed74@gmail.com) 
-
-## Tools
-
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+<a href="https://www.linkedin.com/in/aziz-bouali/">
+  <img align="left" alt="Aziz's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/aziz_bouali37/">
+  <img align="left" alt="Aziz's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/Aziz.boualii.37/">
+  <img align="left" alt="aziz's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/AzizBouali13">
+  <img align="left" alt="aziz's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 
 
-## Technology Stack
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+<br />
+<br />
+
+A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+ 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently a Pre-Engineering student at ISSATSo,
+- 🌱 I’m currently exploring C++ with a big interest in Data Structures and Algorithms. 
+- 🤔 My interest lies in backend web development.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [boualimohamed74@gmail.com](mailto:boualimohamed74@gmail.com).
 
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=saaya-code&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
-
-<!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-🌆 Daytime    6 commits      ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-🌃 Evening    15 commits     ███████████████░░░░░░░░░░   60.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesdays** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Wednesday    7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Friday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Saturday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Sunday       7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0%
-
-```
+**Languages and Tools:**  
 
 
-📊 **This week I spent my time on** 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-```text
-💬 Languages: 
-JavaScript               8 hrs 8 mins        █████████████████████░░░░   83.64% 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-🔥 Editors: 
-Vscode                   9 hrs 44 mins       █████████████████████████   100.0%
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-💻 Operating Systems: 
-Ubuntu                   9 hrs 44 mins       █████████████████████████   100.0%
+<img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
 
-```
-
-
-<!--END_SECTION:waka-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
