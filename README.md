@@ -26,7 +26,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Pre-Engineering student at ISSATSo,
+- 👨🏽‍💻 I’m currently a Software Engineering student at ISSATSo,
 - 🌱 I’m currently exploring C++ with a big interest in Data Structures and Algorithms. 
 - 🤔 My interest lies in backend development.
 - 💬 Ask me about anything, I love to answer!
