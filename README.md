@@ -28,7 +28,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 👨🏽‍💻 I’m currently a Software Engineering student at ISSATSo,
 - 🌱 I’m currently exploring C++ with a big interest in Data Structures and Algorithms. 
-- 🤔 My interest lies in backend development.
+- 🤔 My interest lies in fullStack development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [boualimohamed74@gmail.com](mailto:boualimohamed74@gmail.com).
 
