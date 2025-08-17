@@ -1,4 +1,4 @@
-<h3 title="Hello"> Hey 👋, I'm Aziz !</h3>
+<h3 title="Hello"> Hey 👋, I'm Mohamed Aziz !</h3>
 
 <a href="https://www.linkedin.com/in/aziz-bouali/">
   <img align="left" alt="Aziz's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,8 +26,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Software Engineering student at ISSATSo,
-- 🌱 I’m currently exploring C++ with a big interest in Data Structures and Algorithms. 
+- 👨🏽‍💻 I’m currently a Software Engineering student at Higher Institute of Applied Sciences and Technology,
 - 🤔 My interest lies in fullStack development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [boualimohamed74@gmail.com](mailto:boualimohamed74@gmail.com).
