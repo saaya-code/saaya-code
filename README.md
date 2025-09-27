@@ -27,7 +27,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Software Engineering student at Higher Institute of Applied Sciences and Technology,
-- 🤔 My interest lies in fullStack development.
+- 🤔 My interest lies in FullStack AI development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [boualimohamed74@gmail.com](mailto:boualimohamed74@gmail.com).
 
